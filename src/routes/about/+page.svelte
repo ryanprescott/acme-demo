@@ -1,2 +1,2 @@
-<h1>Hello World</h1>
-<p> Fuck you </p>
+<h1>About</h1>
+About
